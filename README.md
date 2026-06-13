@@ -9,8 +9,12 @@
     </p>
 </div>
 
-### Revit API Packages - `Open Source`
+### Revit API Nuget Packages - `Open Source`
 
 * [revit.context](https://github.com/VolocyNazad/toolkit.revit.context)
 * [revit.transaction-cache](https://github.com/VolocyNazad/toolkit.revit.transaction-cache)
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
+
+### Revit API Plugins - `Open Source`
+
+* [revit.linter](https://github.com/VolocyNazad/revit.linter)
