@@ -19,7 +19,7 @@
 * [revit.transaction-cache](https://github.com/VolocyNazad/toolkit.revit.transaction-cache)
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
 * [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
-* [revit.templates](https://github.com/VolocyNazad/toolkit.revit.templates)
+* [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
 
 ### Revit API Plugins - `Open Source`
 
