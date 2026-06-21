@@ -20,6 +20,7 @@
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
 * [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
+* [revit.enrichers](https://github.com/VolocyNazad/toolkit.revit.enrichers)
 
 ### Revit API Plugins - `Open Source`
 
