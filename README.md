@@ -21,6 +21,7 @@
 * [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
 * [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers) (todo)
+* [revit.sugar](https://github.com/VolocyNazad/toolkit.revit.sugar) (todo)
 
 ### Revit API Plugins - `Open Source`
 
