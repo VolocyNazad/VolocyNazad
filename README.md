@@ -20,7 +20,7 @@
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
 * [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
-* [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers)
+* [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers) (todo)
 
 ### Revit API Plugins - `Open Source`
 
