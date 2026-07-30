@@ -20,6 +20,7 @@
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
 * [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
+* [revit.async](https://github.com/VolocyNazad/toolkit.revit.async)
 * [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers) (todo)
 * [revit.sugar](https://github.com/VolocyNazad/toolkit.revit.sugar) (todo)
 
