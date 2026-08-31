@@ -30,4 +30,4 @@
 
 ### Other Nuget Packages - `Open Source`
 
-* [revit.value-store](https://github.com/VolocyNazad/toolkit.value-store)
+* [value-store](https://github.com/VolocyNazad/toolkit.value-store)
