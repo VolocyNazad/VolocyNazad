@@ -27,3 +27,7 @@
 ### Revit API Plugins - `Open Source`
 
 * [revit.linter](https://github.com/VolocyNazad/revit.linter)
+
+### Other Nuget Packages - `Open Source`
+
+* [revit.value-store](https://github.com/VolocyNazad/toolkit.value-store)
