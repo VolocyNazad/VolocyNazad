@@ -22,7 +22,7 @@
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
 * [revit.async](https://github.com/VolocyNazad/toolkit.revit.async)
 * [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers) (todo)
-* [revit.sugar](https://github.com/VolocyNazad/toolkit.revit.sugar) (todo)
+* [revit.sugar](https://github.com/VolocyNazad/toolkit.revit.sugar)
 * [revit.templates](https://github.com/VolocyNazad/toolkit.revit.templates) (todo)
 
 ### Revit API Plugins - `Open Source`
