@@ -18,7 +18,7 @@
 * [revit.context](https://github.com/VolocyNazad/toolkit.revit.context)
 * [revit.transaction-cache](https://github.com/VolocyNazad/toolkit.revit.transaction-cache)
 * [revit.events](https://github.com/VolocyNazad/toolkit.revit.events)
-* [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR)
+* [revit.mediatR](https://github.com/VolocyNazad/toolkit.revit.mediatR) (obsolete)
 * [revit.sdk](https://github.com/VolocyNazad/toolkit.revit.sdk)
 * [revit.async](https://github.com/VolocyNazad/toolkit.revit.async)
 * [revit.serilog.enrichers](https://github.com/VolocyNazad/toolkit.revit.serilog.enrichers) (todo)
