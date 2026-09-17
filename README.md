@@ -33,6 +33,7 @@ I work on reusable libraries, developer tooling, and web services. My projects f
 | Project | Purpose |
 | --- | --- |
 | [XamlConstructor](https://github.com/VolocyNazad/toolkit.xaml-constructor) | Roslyn source generator for XAML design-time constructors. |
+| [ResxAnalyzer](https://github.com/VolocyNazad/toolkit.resx-analyzer) | Roslyn analyzer that warns about incomplete or broken .resx resource tables at build time. |
 | [Localization](https://github.com/VolocyNazad/toolkit.localization) | Extensions for .NET localization, including inheritance and generic resource lookup. |
 | [Assembly Resolver](https://github.com/VolocyNazad/toolkit.assembly-resolver) | Scoped assembly resolution for desktop applications and plugins. |
 | [Debouncing](https://github.com/VolocyNazad/toolkit.debouncing) | Debounce and throttle dispatchers for .NET applications. |
