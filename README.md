@@ -18,6 +18,7 @@ I work on reusable libraries, developer tooling, and web services. My projects f
 
 | Project | Purpose |
 | --- | --- |
+| [Revit Addin Manager](https://github.com/VolocyNazad/revit.addin-manager) | Pre-launch manager for Autodesk Revit `.addin` manifests: browse installed plugins across versions and scopes, toggle them on/off, and edit manifests before Revit starts. |
 | [Revit Linter](https://github.com/VolocyNazad/revit.linter) | Extensible diagnostics and linting for Autodesk Revit models. |
 | [Revit SDK](https://github.com/VolocyNazad/toolkit.revit.sdk) | Shared SDK and build infrastructure for libraries targeting multiple Revit versions. |
 | [Revit Context](https://github.com/VolocyNazad/toolkit.revit.context) | Access to the active Revit application and document context. |
